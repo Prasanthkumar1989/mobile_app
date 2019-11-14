@@ -1,0 +1,13 @@
+body{
+	position: relative;
+	min-height: 100vh;
+}
+.login_form{
+	position: absolute;
+	top: 50%;
+	left: 0;
+    right: 0;
+    margin: auto;
+	transform: translateY(-50%);
+
+}
