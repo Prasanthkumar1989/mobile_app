@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var url="http://localhost/m_app1/auth.php?callback=?";
+	var url="http://tonyjose.co.uk/api/auth.php?callback=?";
 
     //Login Function
     $("#login").click(function(){
